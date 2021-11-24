@@ -7,7 +7,7 @@ require('dotenv').config({ path: `${__dirname}/../config.env` });
 process.env.JWT_SECRET = 'GzVf5TUwhayXLdtAQSRFvQ==';
 process.env.JWT_EXPIRES_IN = '10d';
 process.env.JWT_COOKIE_EXPIRES_IN = 1;
-process.env.DATABASE = 'mongodb://localhost:27017/homelike_test';
+process.env.DATABASE = 'mongodb+srv://johnvict:WUMglwNBaydH8Yvu@homelike.i9lrm.mongodb.net/homelike_test?retryWrites=true&w=majority';
 
 const config = require('../../src/App/config');
 const supertest = require('supertest');
