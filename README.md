@@ -31,4 +31,4 @@ $ npm test -- --coverage
 ## Others
 
 **Documentation Link**
-  - [Postman Documentation Link](https://documenter.getpostman.com/view/9029061/TzsZqTCE)
+  - [Postman Documentation Link](https://documenter.getpostman.com/view/9029061/UVJZndTP)
